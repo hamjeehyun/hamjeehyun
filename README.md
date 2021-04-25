@@ -14,11 +14,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> 
 </p>
-
-
-
-<p align="center">
+<br>
+<span align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamjeehyun&show_icons=true">
- <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamjeehyun&layout=compact">
-</p>
+</span>
