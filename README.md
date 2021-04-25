@@ -18,4 +18,5 @@
 <span align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamjeehyun&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamjeehyun&layout=compact">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=should">
 </span>
